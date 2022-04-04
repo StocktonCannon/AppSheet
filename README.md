@@ -6,8 +6,8 @@ Created an app to be used for the Shelley Girls Basketball team, Allows the play
 
 # Development Environment
 
-Google App Sheet
-Google Sheets
+* Google App Sheet
+* Google Sheets
 
 # Useful Websites
 
